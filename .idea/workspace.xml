@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6623151e-24d5-458c-b219-4664e450e244" name="Changes" comment="짠짠짠2">
+    <list default="true" id="6623151e-24d5-458c-b219-4664e450e244" name="Changes" comment="잠깐 스태시하려고 커밋해봄">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -49,7 +51,28 @@
       <option name="project" value="LOCAL" />
       <updated>1644213095894</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="스태시">
+      <created>1644214091178</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1644214091178</updated>
+    </task>
+    <task id="LOCAL-00003" summary="스태시한거 다시 돌려놓기">
+      <created>1644214168630</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1644214168630</updated>
+    </task>
+    <task id="LOCAL-00004" summary="잠깐 스태시하려고 커밋해봄">
+      <created>1644214207944</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1644214207944</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,6 +106,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="짠짠짠" />
-    <option name="LAST_COMMIT_MESSAGE" value="짠짠짠" />
+    <MESSAGE value="스태시" />
+    <MESSAGE value="스태시한거 다시 돌려놓기" />
+    <MESSAGE value="잠깐 스태시하려고 커밋해봄" />
+    <option name="LAST_COMMIT_MESSAGE" value="잠깐 스태시하려고 커밋해봄" />
   </component>
 </project>
